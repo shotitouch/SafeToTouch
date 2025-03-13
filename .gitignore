@@ -1,0 +1,11 @@
+# Ignore environment files
+.env
+*.log
+__pycache__/
+*.pyc
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore other files/folders that are irrelevant
+.DS_Store
