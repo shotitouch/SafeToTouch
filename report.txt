@@ -1,0 +1,9 @@
+Attack Analysis Report:
+    
+Total samples: 12630
+Epsilon values: [0, 0.01, 0.03, 0.05, 0.1, 0.2, 0.3]
+
+Key Metrics:
+- Max Attack Success Rate: 95.7%
+- Min Accuracy Under Attack: 1.4%
+- Avg Confidence Drop: 0.542
